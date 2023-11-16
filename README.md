@@ -1,4 +1,5 @@
-### Hi there 👋 ![runner](https://github.com/benturnerrocks/benturnerrocks/assets/85888003/73e7233f-a56d-4db6-b50b-1c8ea6cf8cb6)
+### Hi there 👋 
+<img src="https://github.com/benturnerrocks/benturnerrocks/assets/85888003/73e7233f-a56d-4db6-b50b-1c8ea6cf8cb6" alt="runner" width="200"/>
 
 
 <!--
