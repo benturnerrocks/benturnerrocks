@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 ![runner](https://github.com/benturnerrocks/benturnerrocks/assets/85888003/73e7233f-a56d-4db6-b50b-1c8ea6cf8cb6)
+
 
 <!--
 **benturnerrocks/benturnerrocks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
