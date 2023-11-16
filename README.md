@@ -5,14 +5,14 @@
 <img src="https://github.com/benturnerrocks/benturnerrocks/assets/85888003/5d14be6c-4fe9-4d67-b8a4-40e3764cb1f7" alt="goal" width="50"/> 
 
 (he/him/his) \
-**Carleton College '23** <img src="https://github.com/benturnerrocks/benturnerrocks/assets/85888003/1fe644ff-449b-4e9e-90d0-776f0a9d072c" alt="carleton college" width="20"/> \
+**Carleton College '23** <img src="https://github.com/benturnerrocks/benturnerrocks/assets/85888003/1fe644ff-449b-4e9e-90d0-776f0a9d072c" alt="Carleton College" width="20"/> \
 **Major:** Physics 🛰️🔭\
 **Academic Passions:** (Computer 💻 &nbsp; **&&** &nbsp; Data 📈) Science 🚀 &nbsp; **&&** &nbsp; Problem Solving 🧮 &nbsp; **&&** &nbsp; Learning new things 📚 \
 **Personal Passions:** Soccer ⚽️ &nbsp; **||** &nbsp; Hockey 🏒 &nbsp; **||** &nbsp; Video Games 🎮 &nbsp; **||** &nbsp; The Great Outdoors 🏂🏔️❄️ **||** TV/Movies 📺
 
-- 🌱 I’m currently teaching myself **Game Development in Unity**, **AWS**, 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m seeking S tier TV and movie recommendations!
+- 🌱 I’m currently teaching myself **Game Development in Unity**, **AWS**, and **Krita** !
+- 👯 I’m working with @Ella Hein on a data-driven web app.
+- 🤔 I’m seeking S-tier TV and movie recommendations...
 - 💬 Ask me about my travels after graduation! 🛫 🌏
 - 📫 How to reach me: turnernben@gmail.com or at <a href="https://www.linkedin.com/in/ben-turner-4a0329229/"  target="_blank">my LinkedIn page</a> !
 - ⚡ Fun fact: 
