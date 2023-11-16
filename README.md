@@ -1,5 +1,6 @@
 ### Hi there 👋 
-<img src="https://github.com/benturnerrocks/benturnerrocks/assets/85888003/73e7233f-a56d-4db6-b50b-1c8ea6cf8cb6" alt="runner" width="200"/>
+<img src="https://github.com/benturnerrocks/benturnerrocks/assets/85888003/4a548e5b-034c-47bd-9641-adf593400782" alt="runner" width="50"/>
+
 
 
 <!--
