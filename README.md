@@ -1,8 +1,8 @@
 ### Hi there you've found Ben Turner's GitHub Page 👋 
-<img src="https://github.com/benturnerrocks/benturnerrocks/assets/85888003/f389a7bd-6d85-4501-9602-cc8e37e69cb3" alt="runner" width="50"/>
-<img src="https://github.com/benturnerrocks/benturnerrocks/assets/85888003/abfc52d1-fa39-46a6-8c4a-611aa8bc156d" alt="runner2" width="50"/>
-<img src="https://github.com/benturnerrocks/benturnerrocks/assets/85888003/794d1b15-e25d-459f-8d0c-30e6a2dc0bb6" alt="shooting player" width="50"/>
-<img src="https://github.com/benturnerrocks/benturnerrocks/assets/85888003/d8561427-ff68-4d6a-be18-028b45a48532" alt="goal" width="50"/> 
+<img src="https://github.com/benturnerrocks/benturnerrocks/assets/85888003/99206412-8e85-4ad8-8e1c-10b58120d69c" alt="runner" width="50" loop=infinite/>
+<img src="https://github.com/benturnerrocks/benturnerrocks/assets/85888003/d0b9467a-8e4b-4e9c-ae64-c72175e223cf" alt="runner2" width="50" loop=infinite/>
+<img src="https://github.com/benturnerrocks/benturnerrocks/assets/85888003/a79c3922-747a-4436-971f-5bd35caea758" alt="shooting player" width="50" loop=infinite/>
+<img src="https://github.com/benturnerrocks/benturnerrocks/assets/85888003/cd89ceeb-cbf6-461b-b4d3-bf8b79706619" alt="goal" width="50" loop=infinite/> 
 
 
 (he/him/his) \
