@@ -9,7 +9,7 @@
 **Academic Passions:** (Computer 💻 &nbsp; **&&** &nbsp; Data 📈) Science 🚀 &nbsp; **&&** &nbsp; Problem Solving 🧮 &nbsp; **&&** &nbsp; Learning new things 📚 \
 **Personal Passions:** Soccer ⚽️ &nbsp; **||** &nbsp; Hockey 🏒 &nbsp; **||** &nbsp; Video Games 🎮 &nbsp; **||** &nbsp; The Great Outdoors 🏂🏔️❄️ **||** TV/Movies 📺
 
-- 🌱 I’m currently teaching myself **Game Development in Unity**, **AWS**, and **Krita** !
+- 🌱 I’m currently teaching myself **Game Development in Unity**, **AWS**, and **Animation** !
 - 👯 I’m working with @Ella Hein on a data-driven web app.
 - 🤔 I’m seeking S-tier TV and movie recommendations...
 - 💬 Ask me about my travels after graduation! 🛫 🌏
