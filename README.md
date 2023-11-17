@@ -4,8 +4,6 @@
 <img src="https://github.com/benturnerrocks/benturnerrocks/assets/85888003/a79c3922-747a-4436-971f-5bd35caea758" alt="shooting player" width="50" loop=infinite/>
 <img src="https://github.com/benturnerrocks/benturnerrocks/assets/85888003/cd89ceeb-cbf6-461b-b4d3-bf8b79706619" alt="goal" width="50" loop=infinite/> 
 
-
-(he/him/his) \
 **Carleton College '23** <img src="https://github.com/benturnerrocks/benturnerrocks/assets/85888003/1fe644ff-449b-4e9e-90d0-776f0a9d072c" alt="Carleton College" width="20"/> \
 **Major:** Physics 🛰️🔭\
 **Academic Passions:** (Computer 💻 &nbsp; **&&** &nbsp; Data 📈) Science 🚀 &nbsp; **&&** &nbsp; Problem Solving 🧮 &nbsp; **&&** &nbsp; Learning new things 📚 \
