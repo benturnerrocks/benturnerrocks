@@ -27,10 +27,11 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/benturnerrocks/benturnerrocks/assets/85888003/d4a6ec98-c97a-41aa-8afd-40dd70575f81" alt="psql" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/benturnerrocks/benturnerrocks/assets/85888003/0982b2ac-1c57-4b1b-9c23-75307e4ae957" alt="pandas" width="40" height="40"/> </a> 
 <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> 
 <a href="https://krita.org/en/" target="_blank" rel="noreferrer"> <img src="https://github.com/benturnerrocks/benturnerrocks/assets/85888003/54e4b0ba-90d9-4875-b595-18a98dfd5a16" alt="krita" width="40" height="40"/> </a> 
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 <a href="https://www.pygame.org/wiki/about" target="_blank" rel="noreferrer"> <img src="https://github.com/benturnerrocks/benturnerrocks/assets/85888003/0570bd27-757e-4167-9fb4-7c0b35b75ce3" alt="pygame" width="100" height="40"/> </a> 
 <a href="https://www.vulkan.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/benturnerrocks/benturnerrocks/assets/85888003/8b549401-cc22-4170-a3e1-756e69fc2053" alt="vulkan" width="80" height="40"/> </a>
 </p>
+
